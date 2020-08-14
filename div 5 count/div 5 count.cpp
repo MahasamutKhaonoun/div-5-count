@@ -4,7 +4,6 @@ int main()
 {
 	int num1, num2, cdiv=0;
 	char name[60];
-
 	printf("Please input your name : ");
 	gets_s(name);
 	printf("Welcome %s", name);
